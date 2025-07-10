@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer focado em Back-End | Java | Spring Boot | Microsserviços | AWS</h3>
 
 <p align="center">
-  <img src="https://github.com/andretavares20/andretavares20/assets/xxx/banner.png" alt="banner" />
+  <img src="https://github.com/andretavares20/andretavares20/blob/main/banner.png" alt="banner do perfil" />
 </p>
 
 ---
